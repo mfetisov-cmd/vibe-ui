@@ -196,10 +196,10 @@ export default function RetailTopupPage() {
 
           <Spacer size={6} />
 
-          <Typography variant="h5" align="center">Start earning cashback</Typography>
+          <Typography variant="h5" align="center">Your virtual card is ready</Typography>
           <Spacer size={1} />
           <Typography variant="bodyS" align="center" color="secondary">
-            Add money now — get up to 10% back on every spend
+            Add money to start earning up to 10% cashback
           </Typography>
 
           <Spacer size={6} />
